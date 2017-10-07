@@ -25,4 +25,11 @@ namespace Minutes.Droid
             LoadApplication(new App());
         }
     }
+    public class implemented:MinutesPage.Imethod1
+    {
+        public async void method1()
+        {
+            await Displa
+        }
+    }
 }
